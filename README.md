@@ -6,11 +6,11 @@ bu araçlara ait ortalama hız, maksimum hız ve minimum hızları bulunmaktadı
 
 Data Dictionary
 
-# DATE_TIME : Tarih ve Saat bilgisini içeren alandır. Veri formati YYYY-MM-DD HH24:MI:SS formatındadır. * Tarih kırılımı saatliktir.
-# LONGITUDE : Boylam bilgisini içeren alandır.
-# LATITUDE : Enlem bilgisini içeren alandır.
-# GEOHASH : Enlem ve Boylamların Geohash Değeridir, Geohash uzunluğu 6’dır.
-# MINIMUM_SPEED : Verilen saatte ilgili geohash alanı için asgari hız (km/s cinsinden).
-# MAXIMUM_SPEED : Verilen saatte ilgili geohash alanı için azami hız (km/s cinsinden).
-# AVERAGE_SPEED : Verilen saatte ilgili geohash alanı için ortalama hız (km/s cinsinden).
-# NUMBER_OF_VEHICLES : Verilen saatte ilgili geohash alanı içinde bulunan farklı araç sayısı.
+-- DATE_TIME : Tarih ve Saat bilgisini içeren alandır. Veri formati YYYY-MM-DD HH24:MI:SS formatındadır. * Tarih kırılımı saatliktir.
+-- LONGITUDE : Boylam bilgisini içeren alandır.
+-- LATITUDE : Enlem bilgisini içeren alandır.
+-- GEOHASH : Enlem ve Boylamların Geohash Değeridir, Geohash uzunluğu 6’dır.
+-- MINIMUM_SPEED : Verilen saatte ilgili geohash alanı için asgari hız (km/s cinsinden).
+-- MAXIMUM_SPEED : Verilen saatte ilgili geohash alanı için azami hız (km/s cinsinden).
+-- AVERAGE_SPEED : Verilen saatte ilgili geohash alanı için ortalama hız (km/s cinsinden).
+-- NUMBER_OF_VEHICLES : Verilen saatte ilgili geohash alanı içinde bulunan farklı araç sayısı.
